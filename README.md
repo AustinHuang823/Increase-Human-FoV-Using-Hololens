@@ -29,7 +29,7 @@ This Unity project shows
 - You need to restart the device (hold the power button for several seconds) each time the device hiberates after you opened an app that uses research mode functions. So if your app suddenly cannot get any sensor data, try restarting your device. Please let me know if you know how to solve this issue.
 
 ## Demo
-<img src="/Demo/demo.gif" width="480">
-<img src="/Demo/demo img1.jpg" width="480">
-<img src="/Demo/demo img2.jpg" width="480">
-<img src="/Demo/demo img3.jpg" width="480">
+<img src="/Demo/demo img1.jpg" width="600">
+<img src="/Demo/demo img2.jpg" width="600">
+<img src="/Demo/demo img3.jpg" width="600">
+<img src="/Demo/demo.gif" width="600">
